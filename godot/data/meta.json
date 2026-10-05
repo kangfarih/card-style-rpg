@@ -1,0 +1,13 @@
+{
+  "assetVer": "combat-1",
+  "levelVer": "grove-1",
+  "terrainRevision": 3,
+  "artRevision": 2,
+  "godotVersion": "4.6.1.stable.official.14d19694e",
+  "exportWeb": "single-threaded",
+  "locked": {
+    "spawnTypes": ["slime", "mushroom"],
+    "gold": [5, 9],
+    "exp": {"slime": 12, "mushroom": 15}
+  }
+}
