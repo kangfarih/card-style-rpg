@@ -19,7 +19,7 @@ Thumbs.db
 godot/*.gdbackup
 
 # Build outputs (keep for now)
-# builds/
+builds/
 dist_old/
 
 # Environment variables
