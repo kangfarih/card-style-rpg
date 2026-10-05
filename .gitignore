@@ -22,6 +22,11 @@ godot/*.gdbackup
 # builds/
 dist_old/
 
+# Remove symlinked files from tracking
+godot/builds/web_godot/game.js
+godot/builds/web_godot/style.css
+godot/builds/web_godot/fonts/*
+
 # Environment variables
 .env
 .env.local
